@@ -29,8 +29,8 @@
 ![img](https://www.researchgate.net/profile/Juha-Tuominen/publication/224753609/figure/fig1/AS:302807312814106@1449206298006/Example-HTML-layout.png)
 
 >so the important thing is
-~~~~~~~~~
-On the right you can see a
+
+~~~~On the right you can see a
 layout that is quite common
 (particularly on blog sites).
 At the top of the page is the
@@ -51,10 +51,7 @@ inside <div> elements and use
 the class or id attributes to
 indicate the purpose of that part
 of the page.
-~~~~~~~~
 
-
-~~~~~
 The point of creating these
 new elements is so that web
 page authors can use them to
@@ -73,7 +70,30 @@ that it also makes the code
 easier to follow.
 ~~~~~
 
-![img](https://www.101computing.net/wp/wp-content/uploads/HTML-Layout-1.png)
+
+
+![img](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png)
 
 
 
+### At this point, we have covered the main
+##### tags that fit nicely into groups and sections.
+>In this chapter, we will focus on some helpful topics that are not easily grouped together. You will learn about;
+
+
+🔽
+⏬
+🔽
+⏬
+
+
+
+No|The main objrctes
+--|--------
+1| The different versions of HTML and how to indicate
+2 |vHow to add comments to your code
+3 |Global attributes, which are attributes that can be used.
+4 |  Elements that are used to group together parts of the page.
+5 | How to embed a page within a page using iframes
+6| How to add information about the web page using.
+7 | Adding characters such as angled brackets and copyright.

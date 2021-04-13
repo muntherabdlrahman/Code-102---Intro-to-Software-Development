@@ -97,3 +97,10 @@ No|The main objrctes
 5 | How to embed a page within a page using iframes
 6| How to add information about the web page using.
 7 | Adding characters such as angled brackets and copyright.
+
+
+
+###### In order to help web page authors move to this new syntax, two main flavors of XHTML 1.0 were created
+
+- [x] Strict XHTML 1.0, where authors had to follow the rules to the letter
+- [ ] Transitional XHTML 1.0, where authors could still use presentational elements (such as <center> and <font>).

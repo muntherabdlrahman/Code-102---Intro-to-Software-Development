@@ -1,5 +1,5 @@
 # Hello everyone 
-#### Munther Abdlrahman, An electrical engineer, I'm so motivieted to new more about software world. 
+#### Munther Abdlrahman, An electrical engineer, I'm so motivieted to know more about software world. 
 
 
 

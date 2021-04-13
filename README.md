@@ -7,6 +7,7 @@
 No | My Readings 
 ---|-------------
 1|[lab02](lab02.md)
-2| [read01](read01.md)
-3 | [read02](read02.md)
-4| [stretch Goals](Stretch Goals.md)
+2|[read01](read01.md)
+3 |[read02](read02.md)
+4|[stretchGoals](StretchGoals.md)
+5|[HTMLlayout](HTMLlayout.md)

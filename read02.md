@@ -15,13 +15,14 @@
 
 ## So, what is Git?
 ##### we will talk about this objects to now more about Git.
-`````````````
--Snapshots
--Local Operations
--Tracking Changes
--Loss of Data
--States
-`````````````
+NO|objects
+--|----
+1|Snapshots
+2|Local Operations
+3|Tracking Changes
+4|Loss of Data
+5|States
+
 
 
 
@@ -62,7 +63,7 @@
 ### History of Git
 ##### Git traces its roots to the open source software project Linux kernel. Developers of this project began using a DVCS called BitKeeper in 2002. In 2005, many of these developers stopped using this DVCS due to tension between the Linux kernel community and the company behind BitKeeper’s and the eventual revocation of the DVCS’ gratis status. Subsequently, Linus Torvalds, the chief architect of the Linux kernel, began creating Git. With the intention of creating a DVCS with a workflow design similar to that of BitKeeper, which was also fast, Git allowed for non-linear development via multiple branches, could support large projects, possessed strong mechanisms preventing corruption, and had a simple design. Since its inception in 2005, Git has become one of the most utilized Version Control Systems in the world.
 
-➡️
+
 ### Git can be installed in three ways:
 
 ➡️Install as a package
@@ -116,7 +117,7 @@ $ git config --global core.editor emacs
 ### Check Settings
 ##### settings, use the git config --list command.
 
-##### Example:
+> Example:
 ````````````````````
 $ git config --list
 
@@ -139,7 +140,7 @@ color.interactive=auto
 - [ ] man git-command
 
 
-##### This informations were taken from
+> This informations were taken from
 ![img](https://blog.udemy.com/wp-content/themes/udemyblog/img/udemy-logo.svg)
 [udemy](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/#18)
 

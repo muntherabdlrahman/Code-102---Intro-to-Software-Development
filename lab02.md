@@ -3,14 +3,15 @@
 ![midset](https://metrifit.com/wp-content/uploads/2020/08/growthmindsetlandscape.jpg)
 ## Are you person whom growth mindset to solve, fix and create on your whatever work you do?
 
-### Of course, you should be.
+>Of course, you should be.
+
 ##### The growth mindset believes that one’s fundamental abilities can be developed through perseverance and effort; intelligence and talent are simply good starting points. A growth mindset is synonymous with a love of learning.
 
 ### So, what is the ungrothen mimdset person?
 ## ***Fixed mindset***
 ##### In that status named Fixed mindest, in a fixed mindset, intelligence and talent are seen as fixed traits, suggesting that success comes from these inherent qualities alone, without the need for further development or effort.
 
-### So, now I believe that will not be one of the people who is fixed mindest.
+> So, now I believe that will not be one of the people who is fixed mindest.
 
 ![journey](https://phrenimos.com/wp-content/uploads/2017/09/Importance-of-leadership-Leadership-Journey.jpg)
 
@@ -18,13 +19,14 @@
 ### Now you are one of the people who depend on thier growth mindset.
 
 ## How you can be perseverance, gumption traps, and maintaining a growth mindset?
-~~~~~~~~~~~
-1.Challenges
-2.Obstacles
-3.Effort
-4.Criticism
-5.Success of others
-~~~~~~~~~~~~~~~~
+No|topic
+--|--
+1|Challenges
+2|Obstacles
+3|Effort
+4|Criticism
+5|Success of others
+
 
 
 1.**Challenges**

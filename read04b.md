@@ -9,7 +9,7 @@
 
 ##### The input devices of a computer can depend on the type of computer we are dealing with but most typically we will find a mouse, keyboard, scanner or even applications (software) installed on the computer. Once the data has been received, the central processing unit (CPU) along with the help of other components, takes over and processes the information it was given. Once the data is ready, it will be sent back through an output device which can be a monitor, speaker, printer, ports, etc.
 
-######To better imagine how a computer works, knowing what’s inside will make it easier. Here are the main components of a computer:
+###### To better imagine how a computer works, knowing what’s inside will make it easier. Here are the main components of a computer:
 
 
 CPU| or Central Processing Unit is considered the most important component in a computer and for good reason

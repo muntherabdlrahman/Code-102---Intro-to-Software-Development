@@ -15,3 +15,4 @@ No | My Readings Notes
 4|[stretchGoals](StretchGoals.md)
 5|[HTMLlayout](HTMLlayout.md)
 6|[read04a](read04a.md)
+7|[read04b](read04b)
